@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ster1402
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Game Programming with Unity
+- 🌱 I’m currently learning Game Programming with Unity and Python langage
 - 📫 How to reach me : sterdevs@gmail.com
 
 <!---
