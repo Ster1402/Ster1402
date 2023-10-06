@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ster1402
 - 🌱 I’m a developer
-- 📫 How to reach me : sterdevs@gmail.com | ndetsapisteveroland@gmail
+- 📫 How to reach me : sterdevs@gmail.com | ndetsapisteveroland@gmail.com
 
 <!---
 Ster1402/Ster1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
